@@ -1,0 +1,11 @@
+img{
+    width: 100%;
+}
+
+.textojustificado{
+    text-align: center;
+    text-align: justify;
+}
+:any-link{
+    text-decoration: none;
+}
